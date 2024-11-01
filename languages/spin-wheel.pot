@@ -1,0 +1,610 @@
+# Copyright (C) 2024 spin-wheel
+# This file is distributed under the GPL-2.0-or-later license.
+msgid ""
+msgstr ""
+"Project-Id-Version: spin-wheel 1.0.5\n"
+"Report-Msgid-Bugs-To: bdthemes <EMAIL>\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"POT-Creation-Date: 2024-10-29T10:43:46.405Z\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: bdthemes <EMAIL>\n"
+"Language-Team: bdthemes <EMAIL>\n"
+"X-Generator: @wp-blocks/make-pot 1.4.0\n"
+"Language: en\n"
+"domain: X-Domain: spin-wheel\n"
+
+#: spin-wheel.php
+#: includes/Admin/class-menu.php:55
+#. Name of the plugin
+msgid "Spin Wheel"
+msgstr ""
+
+#: spin-wheel.php
+#. Url of the plugin
+msgid "https://bdthemes.com/spin-wheel"
+msgstr ""
+
+#: spin-wheel.php
+#. Description of the plugin
+msgid ""
+"Engage your visitors with an interactive spinning wheel that offers coupons "
+"and other rewards. Increase user engagement and boost conversions with this "
+"fun and rewarding experience."
+msgstr ""
+
+#: spin-wheel.php
+#. Author of the plugin
+msgid "bdthemes"
+msgstr ""
+
+#: spin-wheel.php
+#. Author URI of the plugin
+msgid "https://bdthemes.com"
+msgstr ""
+
+#: includes/Admin/class-menu.php:41
+#: includes/Admin/class-menu.php:58
+msgid "Get Pro"
+msgstr ""
+
+#: includes/Admin/Views/get-pro.php:7
+msgid "Designed for business teams like yours"
+msgstr ""
+
+#: includes/Admin/Views/get-pro.php:10
+msgid ""
+"Our product is built for teams of all sizes and industries. Enjoy all the "
+"features and benefits of our product without any commitment."
+msgstr ""
+
+#: includes/Admin/Views/get-pro.php:11
+msgid "Get started today with a 14-day money-back guarantee."
+msgstr ""
+
+#: includes/Admin/Views/get-pro.php:24
+msgid "Premium Support"
+msgstr ""
+
+#: includes/Admin/Views/get-pro.php:26
+msgid ""
+"Our team of experts is here to help you with any questions you have. We "
+"offer 24/7 support for all our customers."
+msgstr ""
+
+#: includes/Admin/Views/get-pro.php:38
+msgid "Limitless Features"
+msgstr ""
+
+#: includes/Admin/Views/get-pro.php:41
+msgid ""
+"Our product comes with a wide range of features that are designed to help "
+"you grow your business. From marketing automation to analytics, we have "
+"everything you need to succeed."
+msgstr ""
+
+#: includes/Admin/Views/get-pro.php:57
+msgid "Business Automation"
+msgstr ""
+
+#: includes/Admin/Views/get-pro.php:60
+msgid ""
+"Our product is designed to help you automate your business processes.\n"
+"\t\t\t\t\t\tFrom marketing to sales, we have everything you need to grow "
+"your business."
+msgstr ""
+
+#: includes/Admin/Views/get-pro.php:73
+msgid "Popup display options"
+msgstr ""
+
+#: includes/Admin/Views/get-pro.php:76
+msgid ""
+"Exit-intent and timed triggers, along with text color customization and "
+"over 250 stunning popup gradient backgrounds to choose from."
+msgstr ""
+
+#: includes/Admin/Views/get-pro.php:88
+msgid "Unlimited Wheels"
+msgstr ""
+
+#: includes/Admin/Views/get-pro.php:90
+msgid ""
+"Create, clone, and display an unlimited number of Coupon Wheels. Choose "
+"from a wide variety of pre-built Wheels."
+msgstr ""
+
+#: includes/Admin/Views/get-pro.php:102
+msgid "Page Filtering"
+msgstr ""
+
+#: includes/Admin/Views/get-pro.php:104
+msgid ""
+"Show or hide your Coupon Wheel on specific pages or posts (e.g., landing "
+"page)."
+msgstr ""
+
+#: includes/Admin/Views/get-pro.php:117
+msgid "Let\\'s Try Premium"
+msgstr ""
+
+#: src/admin/components/includes/WinInfo.jsx:84
+#: src/admin/components/includes/LostInfo.jsx:84
+#: src/admin/components/includes/Form.jsx:146
+msgid "Title"
+msgstr ""
+
+#: src/admin/components/includes/WinInfo.jsx:92
+#: src/admin/components/includes/WinInfo.jsx:174
+#: src/admin/components/includes/LostInfo.jsx:92
+#: src/admin/components/includes/LostInfo.jsx:174
+#: src/admin/components/includes/Form.jsx:154
+#: src/admin/components/includes/Form.jsx:236
+msgid "Text :"
+msgstr ""
+
+#: src/admin/components/includes/WinInfo.jsx:106
+#: src/admin/components/includes/WinInfo.jsx:189
+#: src/admin/components/includes/WinInfo.jsx:253
+#: src/admin/components/includes/WinInfo.jsx:319
+#: src/admin/components/includes/LostInfo.jsx:106
+#: src/admin/components/includes/LostInfo.jsx:188
+#: src/admin/components/includes/LostInfo.jsx:253
+#: src/admin/components/includes/Form.jsx:168
+#: src/admin/components/includes/Form.jsx:250
+#: src/admin/components/includes/Form.jsx:313
+#: src/admin/components/includes/Form.jsx:379
+msgid "Text Color :"
+msgstr ""
+
+#: src/admin/components/includes/WinInfo.jsx:120
+#: src/admin/components/includes/WinInfo.jsx:203
+#: src/admin/components/includes/LostInfo.jsx:120
+#: src/admin/components/includes/LostInfo.jsx:202
+#: src/admin/components/includes/LostInfo.jsx:294
+#: src/admin/components/includes/Form.jsx:182
+#: src/admin/components/includes/Form.jsx:263
+#: src/admin/components/includes/Form.jsx:420
+msgid "Alignment :"
+msgstr ""
+
+#: src/admin/components/includes/WinInfo.jsx:147
+#: src/admin/components/includes/WinInfo.jsx:229
+#: src/admin/components/includes/WinInfo.jsx:295
+#: src/admin/components/includes/WinInfo.jsx:360
+#: src/admin/components/includes/LostInfo.jsx:147
+#: src/admin/components/includes/LostInfo.jsx:229
+#: src/admin/components/includes/LostInfo.jsx:326
+#: src/admin/components/includes/Form.jsx:209
+#: src/admin/components/includes/Form.jsx:289
+#: src/admin/components/includes/Form.jsx:355
+#: src/admin/components/includes/Form.jsx:452
+msgid "Font Size :"
+msgstr ""
+
+#: src/admin/components/includes/WinInfo.jsx:166
+#: src/admin/components/includes/LostInfo.jsx:166
+#: src/admin/components/includes/Form.jsx:228
+msgid "Description"
+msgstr ""
+
+#: src/admin/components/includes/WinInfo.jsx:248
+#: src/admin/components/includes/Form.jsx:308
+msgid "Form"
+msgstr ""
+
+#: src/admin/components/includes/WinInfo.jsx:267
+#: src/admin/components/includes/WinInfo.jsx:333
+#: src/admin/components/includes/LostInfo.jsx:267
+#: src/admin/components/includes/Form.jsx:327
+#: src/admin/components/includes/Form.jsx:393
+msgid "Background color :"
+msgstr ""
+
+#: src/admin/components/includes/WinInfo.jsx:281
+#: src/admin/components/includes/WinInfo.jsx:347
+#: src/admin/components/includes/LostInfo.jsx:281
+#: src/admin/components/includes/Form.jsx:341
+#: src/admin/components/includes/Form.jsx:407
+msgid "Border Color :"
+msgstr ""
+
+#: src/admin/components/includes/WinInfo.jsx:314
+#: src/admin/components/includes/LostInfo.jsx:248
+#: src/admin/components/includes/Form.jsx:374
+msgid "Button"
+msgstr ""
+
+#: src/admin/components/includes/WinInfo.jsx:397
+msgid "Hey, You got {{prize}}"
+msgstr ""
+
+#: src/admin/components/includes/WinInfo.jsx:409
+#: src/admin/components/includes/LostInfo.jsx:372
+msgid "Copy your coupon code now."
+msgstr ""
+
+#: src/admin/components/includes/WinInfo.jsx:425
+msgid "{{coupon}}"
+msgstr ""
+
+#: src/admin/components/includes/WinInfo.jsx:439
+msgid "Copy"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:169
+msgid "Settings"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:175
+msgid "Campaign Name"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:187
+msgid "Status"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:191
+msgid "Active"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:195
+msgid "Paused"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:215
+msgid "Enable Wheel Popup"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:233
+msgid "Development Mode ?"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:240
+msgid "Which devices will this popup appear?"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:251
+msgid "Desktop"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:263
+msgid "Tablet"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:275
+msgid "Mobile"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:282
+msgid "Spam Protection"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:293
+msgid "Email Coupon"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:297
+msgid "Send coupon code to the subscriber's email after submitting the form."
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:312
+msgid "Enable Invisible reCAPTCHA (Coming Soon)"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:325
+msgid "Enable Double Options (Coming Soon)"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:334
+msgid "WooCommerce"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:345
+msgid "Enable WooCommerce?"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:349
+msgid ""
+"Enable this option to show the auto coupon sync within the Coupon Setting "
+"Tab."
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:362
+msgid "Display rules"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:366
+msgid "When to show the popup / campaign ?"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:381
+msgid "On Page Load"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:382
+msgid "On Exit"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:383
+msgid "On Scroll"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:384
+msgid "On Inactivity"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:386
+msgid "On Click"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:389
+#: src/admin/components/includes/Settings.jsx:397
+msgid " (Pro)"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:394
+msgid "Referrer"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:410
+msgid "Show on scroll percentage"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:440
+msgid "Inactivity Time"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:454
+#: src/admin/components/includes/Settings.jsx:486
+msgid "Seconds"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:464
+msgid "Show popup after visitor spends"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:467
+msgid ""
+"How much time does the visitor have to spend on a page before the popup "
+"appears."
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:494
+msgid "Selector"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:507
+msgid "Contains"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:519
+msgid "When the popup should re-appear to the same visitor ?"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:525
+msgid ""
+"( When a visitor has seen this popup, how long we should wait before "
+"showing the popup for the same visitor. )"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:545
+#: src/admin/components/includes/Settings.jsx:577
+msgid "Days"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:588
+msgid "Weeks"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:598
+msgid "When the Popup will be show / hide ?"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:601
+msgid ""
+"( When a visitor has submitted the form in this popup, how long we should "
+"wait before showing the popup for the same subscriber. )"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:607
+#: src/admin/components/includes/Settings.jsx:665
+#: src/admin/components/includes/LostInfo.jsx:73
+#: src/admin/components/includes/Form.jsx:82
+#: src/admin/components/includes/Entries.jsx:159
+#: src/admin/components/includes/Controls/Conditions.jsx:92
+msgid "Loading..."
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:613
+msgid "Start Date"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:635
+msgid "End Date"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:658
+msgid "Your Time"
+msgstr ""
+
+#: src/admin/components/includes/Settings.jsx:680
+#: src/admin/components/includes/Coupons.jsx:374
+msgid "Save Settings"
+msgstr ""
+
+#: src/admin/components/includes/LostInfo.jsx:360
+msgid "Hey, You Lost {{prize}}"
+msgstr ""
+
+#: src/admin/components/includes/LostInfo.jsx:385
+msgid "Close"
+msgstr ""
+
+#: src/admin/components/includes/Form.jsx:103
+msgid "Container"
+msgstr ""
+
+#: src/admin/components/includes/Form.jsx:110
+msgid "Background"
+msgstr ""
+
+#: src/admin/components/includes/Form.jsx:488
+msgid "Spin the wheel to win the prize"
+msgstr ""
+
+#: src/admin/components/includes/Form.jsx:501
+msgid "Give a try on your chance to win the prize!"
+msgstr ""
+
+#: src/admin/components/includes/Form.jsx:592
+msgid "Get Lucky"
+msgstr ""
+
+#: src/admin/components/includes/Entries.jsx:40
+msgid "Are you sure?"
+msgstr ""
+
+#: src/admin/components/includes/Entries.jsx:41
+msgid "You won't be able to revert this!"
+msgstr ""
+
+#: src/admin/components/includes/Entries.jsx:46
+msgid "Yes, delete it!"
+msgstr ""
+
+#: src/admin/components/includes/Entries.jsx:47
+msgid "Cancel"
+msgstr ""
+
+#: src/admin/components/includes/Entries.jsx:60
+msgid "Deleted!"
+msgstr ""
+
+#: src/admin/components/includes/Entries.jsx:61
+msgid "Your entry has been deleted."
+msgstr ""
+
+#: src/admin/components/includes/Entries.jsx:67
+#: src/admin/components/includes/Coupons.jsx:317
+msgid "Error!"
+msgstr ""
+
+#: src/admin/components/includes/Entries.jsx:68
+msgid "Failed to delete entry."
+msgstr ""
+
+#: src/admin/components/includes/Entries.jsx:78
+msgid "Campaign"
+msgstr ""
+
+#: src/admin/components/includes/Entries.jsx:83
+msgid "Name"
+msgstr ""
+
+#: src/admin/components/includes/Entries.jsx:88
+msgid "Email"
+msgstr ""
+
+#: src/admin/components/includes/Entries.jsx:92
+msgid "Coupon"
+msgstr ""
+
+#: src/admin/components/includes/Entries.jsx:94
+#: src/admin/components/includes/Entries.jsx:126
+msgid "No Coupon"
+msgstr ""
+
+#: src/admin/components/includes/Entries.jsx:107
+msgid "Created At"
+msgstr ""
+
+#: src/admin/components/includes/Entries.jsx:112
+msgid "Action"
+msgstr ""
+
+#: src/admin/components/includes/Entries.jsx:163
+msgid "No entries found."
+msgstr ""
+
+#: src/admin/components/includes/Entries.jsx:173
+msgid "Search entries..."
+msgstr ""
+
+#: src/admin/components/includes/Entries.jsx:186
+msgid "Download CSV"
+msgstr ""
+
+#: src/admin/components/includes/Coupons.jsx:301
+msgid "Error"
+msgstr ""
+
+#: src/admin/components/includes/Coupons.jsx:303
+msgid "Total probability should not be more than 100"
+msgstr ""
+
+#: src/admin/components/includes/Coupons.jsx:308
+msgid "Dismiss"
+msgstr ""
+
+#: src/admin/components/includes/Coupons.jsx:318
+msgid "Please Modify / Save Coupon"
+msgstr ""
+
+#: src/admin/components/includes/Coupons.jsx:324
+msgid "Label"
+msgstr ""
+
+#: src/admin/components/includes/Coupons.jsx:326
+msgid "Discount Code"
+msgstr ""
+
+#: src/admin/components/includes/Coupons.jsx:329
+msgid "Max Available Wins"
+msgstr ""
+
+#: src/admin/components/includes/Coupons.jsx:331
+msgid "(Pro)"
+msgstr ""
+
+#: src/admin/components/includes/Coupons.jsx:338
+msgid "Max Available Wins is the maximum number of times a coupon can be won."
+msgstr ""
+
+#: src/admin/components/includes/Coupons.jsx:339
+msgid "Leave empty for unlimited wins."
+msgstr ""
+
+#: src/admin/components/includes/Coupons.jsx:344
+msgid "Win?"
+msgstr ""
+
+#: src/admin/components/includes/Coupons.jsx:346
+msgid "Probability (100/100)"
+msgstr ""
+
+#: src/admin/components/includes/Coupons.jsx:366
+msgid "Sync WC Coupon"
+msgstr ""
+
+#: src/admin/components/includes/Controls/Repeater.jsx:51
+msgid "Add +"
+msgstr ""
+
+#: src/admin/components/includes/Controls/Conditions.jsx:98
+msgid "Advanced Conditions"
+msgstr ""
+
+#: src/admin/components/includes/Controls/Conditions.jsx:101
+msgid "Optional"
+msgstr ""
+
+#: src/admin/components/includes/Controls/Conditions.jsx:102
+msgid "Set conditions for the wheel to reappear after a certain number of days."
+msgstr ""
+
+#: src/admin/components/includes/Controls/Conditions.jsx:157
+msgid "Add Condition"
+msgstr ""
